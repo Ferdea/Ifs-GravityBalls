@@ -1,0 +1,7 @@
+C:\Users\A.A.Sapegin\Downloads\Ifs-GravityBalls\bin\Debug\GravityBalls.exe.config
+C:\Users\A.A.Sapegin\Downloads\Ifs-GravityBalls\bin\Debug\GravityBalls.exe
+C:\Users\A.A.Sapegin\Downloads\Ifs-GravityBalls\bin\Debug\GravityBalls.pdb
+C:\Users\A.A.Sapegin\Downloads\Ifs-GravityBalls\obj\Debug\GravityBalls.csprojAssemblyReference.cache
+C:\Users\A.A.Sapegin\Downloads\Ifs-GravityBalls\obj\Debug\GravityBalls.csproj.CoreCompileInputs.cache
+C:\Users\A.A.Sapegin\Downloads\Ifs-GravityBalls\obj\Debug\GravityBalls.exe
+C:\Users\A.A.Sapegin\Downloads\Ifs-GravityBalls\obj\Debug\GravityBalls.pdb
